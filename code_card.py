@@ -21,7 +21,7 @@ def my_random_strings():
 #Open files
 files_dic = {}
 for name in names_dic:
-    files_dic[name] = open(name + '.txt', 'r')
+    files_dic[name] = open('services/' + name + '.txt', 'r')
 
 #Arrange passwords in lists.
 passwords_dic = {}
