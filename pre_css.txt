@@ -1,0 +1,6 @@
+.the_codes {
+  margin: 3em;
+  column-width: 9em;
+  width: 60em;
+  font-size: 0.3em;
+}
