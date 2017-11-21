@@ -2,7 +2,7 @@ import random
 import webbrowser
 import os
 
-#Set personal variables
+#Set personal parameters
 names_dic = {'dropbox' : 'blue', 'facebook' : 'purple', 'lastpass' : 'darkred',
              'todoist' : 'red', 'evernote' : 'green', 'gmail' : 'black'}
 pre_char_length = 4
